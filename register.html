@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Callback function for Google Translate Element initialization
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          { pageLanguage: 'en', includedLanguages: 'en,hi,gu' },
+          'google_translate_element'
+        );
+      }
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./register.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dangrek:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <!-- Google Translate Element container -->
+  <div id="google_translate_element"></div>
+
+  <!-- Include the Google Translate Element script -->
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="register">
+      <div class="whatsapp-image-2023-07-27-at-5"></div>
+      <div class="whatsapp-image-2023-07-28-at-1"></div>
+      <img class="register-child" alt="" src="./public/rectangle-4.svg" />
+
+      <div class="text-parent">
+        <div class="text"></div>
+        <b class="female">Female</b>
+        <div class="frame-child27"></div>
+        <div class="frame-child28"></div>
+        <input class="last-name" type="text" placeholder="Last Name" />
+
+        <div class="frame-child29"></div>
+        <input class="password" type="text" placeholder="Password" />
+
+        <div class="frame-child30"></div>
+        <input
+          class="confirm-password"
+          type="text"
+          placeholder="Confirm Password"
+        />
+
+        <div class="frame-child31"></div>
+        <input class="your-email" type="text" placeholder="Your Email" />
+
+        <div class="frame-child32"></div>
+        <input class="your-phone" type="text" placeholder="Your Phone" />
+
+        <div class="frame-child33"></div>
+        <div class="frame-child34"></div>
+        <b class="apply-as-a">Apply as a Seller</b>
+        <input class="first-name" type="text" placeholder="First Name" />
+
+        <input
+          class="enter-your-answer"
+          type="text"
+          placeholder="Enter Your Answer"
+        />
+
+        <input class="ellipse-input" type="radio" name="gender" />
+
+        <input class="frame-child35" type="radio" name="gender" />
+
+        <b class="male">Male</b>
+        <img class="frame-child36" alt="" src="./public/rectangle-131.svg" />
+
+        <img class="frame-child37" alt="" src="./public/rectangle-141.svg" />
+
+        <div class="frame-child38"></div>
+        <div class="seller">Seller</div>
+        <button class="buyer" id="buyer">Buyer</button>
+        <div class="text1"></div>
+        <input
+          class="please-select-your"
+          type="text"
+          placeholder="Please select your Security Question"
+        />
+
+        <a
+          class="register1"
+          href="https://forms.gle/2K6oscRKDyX3N4Dt9"
+          target="_blank"
+          >Register</a
+        >
+      </div>
+    </div>
+
+    <script>
+      var buyer = document.getElementById("buyer");
+      if (buyer) {
+        buyer.addEventListener("click", function (e) {
+          window.location.href = "./register1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

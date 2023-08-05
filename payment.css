@@ -1,0 +1,441 @@
+.khetmart4 {
+  position: absolute;
+  top: 1641px;
+  left: 1960px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-dangrek);
+  display: inline-block;
+  width: 399px;
+}
+.payment-child,
+.transaction-icon2 {
+  position: absolute;
+  top: 1548px;
+  left: 2087px;
+  width: 146px;
+  height: 116px;
+}
+.transaction-icon2 {
+  left: 2379px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.secure-payments2 {
+  position: absolute;
+  top: 1675px;
+  left: 2287px;
+  font-weight: 500;
+  color: var(--color-darkgreen-100);
+}
+.frame-child8 {
+  position: absolute;
+  top: 1208px;
+  left: 1116px;
+  border-radius: 50%;
+  background-color: #fafff7;
+  width: 33px;
+  height: 30px;
+}
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkseagreen-100);
+  width: 1741px;
+  height: 137px;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 2.07%;
+  width: 3.45%;
+  top: 2.41%;
+  right: 94.54%;
+  bottom: 95.52%;
+  left: 2.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.payment1 {
+  position: absolute;
+  top: 53px;
+  left: 135px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-darkolivegreen-500);
+  display: inline-block;
+  width: 232px;
+}
+.frame-child10 {
+  position: absolute;
+  height: 2.89%;
+  width: 15.51%;
+  top: 1.88%;
+  right: 3.91%;
+  bottom: 95.23%;
+  left: 80.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.payment-options {
+  position: absolute;
+  top: 203px;
+  left: 64px;
+  display: inline-block;
+  color: var(--color-darkolivegreen-500);
+  width: 337px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 293px;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1741px;
+  height: 151px;
+}
+.credit-debit {
+  position: absolute;
+  top: 346px;
+  left: 135px;
+  display: inline-block;
+  color: var(--color-darkolivegreen-500);
+  width: 364px;
+}
+.frame-child12 {
+  position: absolute;
+  top: 448px;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1741px;
+  height: 151px;
+}
+.phonepegoogle-paybhim-upi {
+  position: absolute;
+  top: 500px;
+  left: 136px;
+  display: inline-block;
+  color: var(--color-darkolivegreen-500);
+  width: 603px;
+}
+.frame-child13 {
+  position: absolute;
+  top: 603px;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1741px;
+  height: 151px;
+}
+.paytmwallet {
+  position: absolute;
+  top: 667px;
+  left: 135px;
+  display: inline-block;
+  color: var(--color-darkolivegreen-500);
+  width: 263px;
+}
+.frame-child14 {
+  position: absolute;
+  top: 757px;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1741px;
+  height: 151px;
+}
+.net-banking {
+  position: absolute;
+  top: 809px;
+  left: 135px;
+  display: inline-block;
+  color: var(--color-darkolivegreen-500);
+  width: 238px;
+}
+.vector-icon7 {
+  position: absolute;
+  height: 1.93%;
+  width: 4.25%;
+  top: 15.79%;
+  right: 93.74%;
+  bottom: 82.28%;
+  left: 2.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.google-pay-icon {
+  position: absolute;
+  top: 476px;
+  left: 27px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  height: 1.01%;
+  width: 2.76%;
+  top: 15.89%;
+  right: 5.63%;
+  bottom: 83.1%;
+  left: 91.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon9 {
+  top: 37.55%;
+  right: 5.97%;
+  bottom: 61.43%;
+  left: 91.27%;
+}
+.vector-icon10,
+.vector-icon11 {
+  top: 23.25%;
+  right: 5.63%;
+  bottom: 75.73%;
+  left: 91.61%;
+}
+.vector-icon11 {
+  top: 30.57%;
+  right: 5.97%;
+  bottom: 68.42%;
+  left: 91.27%;
+}
+.frame-child15,
+.frame-child16 {
+  position: absolute;
+  top: 1548px;
+  left: 0;
+  width: 1741px;
+  height: 244px;
+}
+.frame-child15 {
+  background-color: var(--color-darkseagreen-300);
+}
+.frame-child16 {
+  background-color: rgba(134, 168, 114, 0.9);
+}
+.khetmart5 {
+  position: absolute;
+  top: 1647px;
+  left: 660px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-dangrek);
+  display: inline-block;
+  width: 399px;
+}
+.frame-child17 {
+  position: absolute;
+  top: 1567px;
+  left: 784.22px;
+  width: 147.78px;
+  height: 126.54px;
+}
+.good-quality-icon2,
+.transaction-icon3 {
+  position: absolute;
+  top: 1569px;
+  left: 1351px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.good-quality-icon2 {
+  top: 1572px;
+  left: 197px;
+}
+.fresh-quality2,
+.fresh-quality3,
+.secure-payments3 {
+  position: absolute;
+  top: 1710px;
+  left: 145px;
+  font-weight: 500;
+  color: var(--color-darkgreen-100);
+  display: inline-block;
+  width: 253px;
+}
+.fresh-quality3,
+.secure-payments3 {
+  top: 1896px;
+  left: 890px;
+}
+.secure-payments3 {
+  top: 1719px;
+  left: 1259px;
+  width: 333px;
+}
+.frame-child18 {
+  position: absolute;
+  top: 1029px;
+  left: 0;
+  width: 1741px;
+  height: 526px;
+}
+.rs-12491,
+.rs-12691 {
+  position: absolute;
+  top: 1168px;
+  left: 1373px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 179px;
+  height: 42px;
+}
+.rs-12691 {
+  top: 1435px;
+  left: 1378px;
+  font-weight: 500;
+  width: 180px;
+}
+.convenience-fee1,
+.discount-on-mrp1,
+.div3,
+.rs-201,
+.total-mrp1 {
+  position: absolute;
+  top: 1231px;
+  left: 1373px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 95px;
+  height: 43px;
+}
+.convenience-fee1,
+.discount-on-mrp1,
+.rs-201,
+.total-mrp1 {
+  top: 1304px;
+  width: 129px;
+}
+.convenience-fee1,
+.discount-on-mrp1,
+.total-mrp1 {
+  top: 1176px;
+  left: 134px;
+  width: 225px;
+}
+.convenience-fee1,
+.discount-on-mrp1 {
+  top: 1240px;
+  width: 381px;
+}
+.convenience-fee1 {
+  top: 1304px;
+  width: 384px;
+}
+.price-details2-items1,
+.total-amount1 {
+  position: absolute;
+  top: 1058px;
+  left: 92px;
+  font-weight: 500;
+  display: inline-block;
+  width: 538px;
+  height: 47px;
+}
+.total-amount1 {
+  top: 1438px;
+  width: 336px;
+  height: 46px;
+}
+.frame-child19,
+.frame-child20 {
+  position: absolute;
+  top: 1123.49px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1742px;
+  height: 1px;
+}
+.frame-child20 {
+  top: 1401.12px;
+  left: -0.54px;
+  width: 1742.08px;
+}
+.frame-child21 {
+  position: absolute;
+  top: 1791px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1741px;
+  height: 286px;
+}
+.total-amount2 {
+  position: absolute;
+  top: 1837px;
+  left: 134px;
+  font-weight: 500;
+  display: inline-block;
+  width: 336px;
+  height: 46px;
+}
+.frame-child22 {
+  position: absolute;
+  top: 1860px;
+  left: 871px;
+  background-color: var(--color-darkolivegreen-300);
+  width: 799px;
+  height: 150px;
+}
+.pay-now,
+.rs-12692 {
+  position: absolute;
+  display: inline-block;
+  height: 42px;
+}
+.rs-12692 {
+  top: 1904px;
+  left: 134px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  width: 478px;
+}
+.pay-now {
+  top: 1914px;
+  left: 1172px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  width: 330px;
+}
+.bank-account-icon,
+.wallet-icon {
+  position: absolute;
+  top: 794px;
+  left: 31px;
+  width: 87px;
+  height: 72px;
+  object-fit: cover;
+}
+.wallet-icon {
+  top: 651px;
+  left: 35px;
+  width: 79px;
+  height: 76px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1741px;
+  height: 2077px;
+}
+.payment {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2077px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

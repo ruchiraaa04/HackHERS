@@ -1,0 +1,9 @@
+.shipped {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-image: url(./public/shipped@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

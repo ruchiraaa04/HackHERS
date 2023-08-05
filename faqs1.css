@@ -1,0 +1,111 @@
+.faqs-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkseagreen-100);
+  width: 1440px;
+  height: 114px;
+}
+.frequently-asked-questionsfaq1 {
+  position: absolute;
+  top: 33px;
+  left: 130px;
+  font-size: var(--font-size-25xl);
+  color: var(--color-darkolivegreen-400);
+}
+.vector-icon65 {
+  position: absolute;
+  height: 2.3%;
+  width: 4.51%;
+  top: 1.4%;
+  right: 94.03%;
+  bottom: 96.3%;
+  left: 1.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.faqs-child2 {
+  position: absolute;
+  top: 2102px;
+  left: 0;
+  background-color: var(--color-darkseagreen-100);
+  width: 1440px;
+  height: 244px;
+}
+.khetmart16 {
+  position: absolute;
+  top: 2201px;
+  left: 550px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-dangrek);
+  display: inline-block;
+  width: 399px;
+}
+.faqs-child3 {
+  position: absolute;
+  top: 2121px;
+  left: 674.22px;
+  width: 147.78px;
+  height: 126.54px;
+}
+.good-quality-icon6,
+.transaction-icon7 {
+  position: absolute;
+  top: 2133px;
+  left: 1136px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.good-quality-icon6 {
+  top: 2119px;
+  left: 162px;
+}
+.fresh-quality7,
+.secure-payments7 {
+  position: absolute;
+  top: 2264px;
+  left: 110px;
+  font-weight: 500;
+  color: var(--color-darkgreen-100);
+}
+.secure-payments7 {
+  top: 2273px;
+  left: 1051px;
+}
+.here-are-some {
+  margin: 0;
+  font-weight: 600;
+}
+.blank-line33 {
+  margin: 0;
+  font-size: var(--font-size-9xl);
+}
+.khetmart-is-an-online-platform {
+  margin: 0;
+}
+.how-can-farmers {
+  font-weight: 500;
+}
+.here-are-some-container {
+  position: absolute;
+  top: 174px;
+  left: 71px;
+  display: inline-block;
+  width: 1289px;
+  height: 1876px;
+  font-size: var(--font-size-11xl);
+}
+.faqs2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2352px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

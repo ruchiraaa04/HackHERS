@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Callback function for Google Translate Element initialization
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          { pageLanguage: 'en', includedLanguages: 'en,hi,gu' },
+          'google_translate_element'
+        );
+      }
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./about-us.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dangrek:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <!-- Google Translate Element container -->
+  <div id="google_translate_element"></div>
+
+  <!-- Include the Google Translate Element script -->
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="about-us2">
+      <button class="left-arrow" id="leftArrow"></button>
+      <b class="about-us3">About us</b>
+      <div class="text-wrapper">
+        <div class="text4"></div>
+      </div>
+      <div class="the-khetmart-website-container">
+        <p class="the-khetmart-website">
+          The Khetmart website, from farm to table means a direct relationship
+          between the farmer and the consumer or corporation.
+        </p>
+        <p class="the-khetmart-website">
+          This website provides farmers with an online presence, making it
+          easier for potential customers, suppliers, and partners to find them.
+          This visibility can lead to increased inquiries.
+        </p>
+        <p class="the-khetmart-website">
+          Farmers can use this website to showcase their products, services, and
+          farming practices. This acts as a powerful marketing tool, helping
+          attract customers and increase sales.
+        </p>
+        <p class="the-khetmart-website">
+          We also provide quality checked products from trusted and assured
+          farmers.
+        </p>
+        <p class="the-khetmart-website">
+          With an e-commerce feature on the website, farmers can sell their
+          produce directly to consumers, cutting out middlemen and potentially
+          earning higher profits. Restaurants and other hotels can approach this
+          website to make bulk orders. We only provide bulk orders.
+        </p>
+        <p class="the-khetmart-website">
+          This website allows farmers to reach customers beyond their local
+          area. This opens up new market opportunities and customer bases.
+        </p>
+        <p class="the-khetmart-website">
+          This website provide different government schemes for farmers and
+          information about modern technologies for farmers to upskill their
+          agriculture methods.
+        </p>
+        <p class="the-khetmart-website">&nbsp;</p>
+        <p class="the-khetmart-website">&nbsp;</p>
+        <p class="the-khetmart-website">&nbsp;</p>
+      </div>
+    </div>
+
+    <script>
+      var leftArrow = document.getElementById("leftArrow");
+      if (leftArrow) {
+        leftArrow.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      </script>
+  </body>
+</html>

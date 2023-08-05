@@ -1,0 +1,305 @@
+.my-orders-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkseagreen-100);
+  width: 1440px;
+  height: 137px;
+}
+.my-orders1 {
+  position: absolute;
+  top: 40px;
+  left: 150px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-darkolivegreen-500);
+}
+.vector-icon44 {
+  position: absolute;
+  height: 2.28%;
+  width: 2.83%;
+  top: 1.6%;
+  right: 95.5%;
+  bottom: 96.13%;
+  left: 1.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.my-orders-item {
+  position: absolute;
+  top: 202px;
+  left: 57px;
+  background-color: var(--color-gainsboro-100);
+  width: 956px;
+  height: 81px;
+}
+.vector-icon45 {
+  position: absolute;
+  height: 1.49%;
+  width: 3.14%;
+  top: 9.03%;
+  right: 31.1%;
+  bottom: 89.48%;
+  left: 65.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-in-orders {
+  position: absolute;
+  top: 223px;
+  left: 97px;
+  font-size: var(--font-size-13xl);
+}
+.my-orders-child1,
+.my-orders-child2,
+.my-orders-inner {
+  position: absolute;
+  top: 1804px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1910px;
+  height: 520px;
+}
+.my-orders-child1,
+.my-orders-child2 {
+  top: 1092px;
+  width: 1440px;
+  height: 660px;
+}
+.my-orders-child2 {
+  top: 389px;
+  opacity: 0.4;
+}
+.arriving-by-sat5,
+.on-mon24-jul,
+.on-wed22-may {
+  position: absolute;
+  top: 1883px;
+  left: 164px;
+  font-size: var(--font-size-5xl);
+}
+.arriving-by-sat5,
+.on-mon24-jul {
+  top: 1170px;
+}
+.arriving-by-sat5 {
+  top: 459px;
+  left: 162px;
+}
+.cancelled,
+.delivered1,
+.shipped1 {
+  position: absolute;
+  top: 1839px;
+  left: 164px;
+  font-weight: 600;
+  color: var(--color-darkolivegreen-500);
+}
+.delivered1,
+.shipped1 {
+  top: 1126px;
+}
+.shipped1 {
+  top: 415px;
+}
+.my-orders-child3,
+.my-orders-child4,
+.my-orders-child5 {
+  position: absolute;
+  top: 1955px;
+  left: 60px;
+  background-color: var(--color-white);
+  width: 1315px;
+  height: 315px;
+}
+.my-orders-child4,
+.my-orders-child5 {
+  top: 1255px;
+  left: 36px;
+  width: 1381px;
+  height: 438px;
+}
+.my-orders-child5 {
+  top: 544px;
+  left: 47px;
+  width: 1346px;
+}
+.exchangereturn-available-with {
+  position: absolute;
+  top: 1456px;
+  left: 1027px;
+  font-size: var(--font-size-xl);
+}
+.garlic3,
+.onion5,
+.potato3 {
+  position: absolute;
+  top: 2009px;
+  left: 374px;
+}
+.onion5,
+.potato3 {
+  top: 1296px;
+}
+.potato3 {
+  top: 585px;
+}
+.qty25-kg {
+  margin: 0;
+}
+.qty25-kg-rs-container,
+.qty25-kg-rs-container1,
+.qty40-kg-rs-container {
+  position: absolute;
+  top: 2053px;
+  left: 374px;
+  font-size: var(--font-size-xl);
+}
+.qty25-kg-rs-container1,
+.qty40-kg-rs-container {
+  top: 1340px;
+}
+.qty40-kg-rs-container {
+  top: 629px;
+}
+.my-orders-child6,
+.my-orders-child7,
+.my-orders-child8 {
+  position: absolute;
+  top: 2009px;
+  left: 112px;
+  width: 218px;
+  height: 218px;
+  object-fit: cover;
+}
+.my-orders-child7,
+.my-orders-child8 {
+  top: 1296px;
+}
+.my-orders-child8 {
+  top: 585px;
+}
+.my-orders-child10,
+.my-orders-child9 {
+  position: absolute;
+  top: 1297px;
+  left: 1027px;
+  background-color: var(--color-darkseagreen-200);
+  width: 348px;
+  height: 68px;
+}
+.my-orders-child10 {
+  top: 595px;
+}
+.cancel-order,
+.return {
+  position: absolute;
+  top: 1310px;
+  left: 1153px;
+  font-size: var(--font-size-21xl);
+}
+.cancel-order {
+  top: 600px;
+  left: 1091px;
+}
+.my-orders-child11 {
+  position: absolute;
+  top: 1383px;
+  left: 1027px;
+  background-color: #b0c6a3;
+  width: 348px;
+  height: 68px;
+}
+.exchange {
+  position: absolute;
+  top: 1388px;
+  left: 1148px;
+}
+.my-orders-child12 {
+  position: absolute;
+  top: 1461px;
+  left: 1005px;
+  border-radius: 50%;
+  background-color: var(--color-darkgreen-100);
+  width: 15px;
+  height: 14px;
+}
+.rate-product {
+  position: absolute;
+  top: 1599px;
+  left: 137px;
+  font-size: var(--font-size-21xl);
+}
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49,
+.vector-icon50 {
+  position: absolute;
+  height: 1.92%;
+  width: 3.14%;
+  top: 63.86%;
+  right: 58.39%;
+  bottom: 34.23%;
+  left: 38.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon47,
+.vector-icon48,
+.vector-icon49,
+.vector-icon50 {
+  right: 54.91%;
+  left: 41.94%;
+}
+.vector-icon48,
+.vector-icon49,
+.vector-icon50 {
+  right: 51.44%;
+  left: 45.42%;
+}
+.vector-icon49,
+.vector-icon50 {
+  right: 47.97%;
+  left: 48.89%;
+}
+.vector-icon50 {
+  right: 44.5%;
+  left: 52.36%;
+}
+.cancel-icon9 {
+  position: absolute;
+  top: 1826px;
+  left: 59px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.my-orders-child13 {
+  position: absolute;
+  top: 848px;
+  left: 129px;
+  background-color: var(--color-gainsboro-100);
+  width: 689px;
+  height: 92px;
+}
+.track-you-order {
+  position: absolute;
+  top: 872px;
+  left: 263px;
+}
+.my-orders {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2504px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Callback function for Google Translate Element initialization
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          { pageLanguage: 'en', includedLanguages: 'en,hi,gu' },
+          'google_translate_element'
+        );
+      }
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./delivered.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dangrek:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <!-- Google Translate Element container -->
+  <div id="google_translate_element"></div>
+
+  <!-- Include the Google Translate Element script -->
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="delivered"></div>
+  </body>
+</html>

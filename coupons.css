@@ -1,0 +1,224 @@
+.coupons-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkseagreen-100);
+  width: 1440px;
+  height: 114px;
+}
+.vector-icon43 {
+  position: absolute;
+  height: 2.51%;
+  width: 4.51%;
+  top: 1.39%;
+  right: 93.75%;
+  bottom: 96.09%;
+  left: 1.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.coupons1 {
+  position: absolute;
+  top: 31px;
+  left: 115px;
+  font-size: var(--font-size-25xl);
+  color: var(--color-darkolivegreen-400);
+}
+.coupons-child1,
+.coupons-inner,
+.coupons-item {
+  position: absolute;
+  top: 165px;
+  left: 107px;
+  background-color: var(--color-gainsboro-100);
+  width: 1201px;
+  height: 166px;
+}
+.coupons-child1,
+.coupons-inner {
+  top: 355px;
+}
+.coupons-child1 {
+  top: 545px;
+}
+.coupon-code,
+.coupon-code1,
+.coupon-code2 {
+  position: absolute;
+  top: 182px;
+  left: 814px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 119px;
+  height: 21px;
+}
+.coupon-code1,
+.coupon-code2 {
+  top: 372px;
+}
+.coupon-code2 {
+  top: 562px;
+}
+.flat-10-off,
+.flat-10-off1,
+.flat-5-off {
+  position: absolute;
+  top: 196px;
+  left: 181px;
+  font-size: var(--font-size-25xl);
+  display: inline-block;
+  width: 260px;
+}
+.flat-10-off1,
+.flat-5-off {
+  top: 386px;
+}
+.flat-5-off {
+  top: 576px;
+}
+.expiry-on-30,
+.expiry-on-301,
+.on-min-purchase,
+.on-your-first,
+.payment-by-yes {
+  position: absolute;
+  top: 249px;
+  left: 181px;
+  display: inline-block;
+  width: 260px;
+}
+.expiry-on-30,
+.expiry-on-301,
+.on-your-first,
+.payment-by-yes {
+  top: 439px;
+}
+.expiry-on-30,
+.expiry-on-301,
+.payment-by-yes {
+  top: 629px;
+  width: 337px;
+}
+.expiry-on-30,
+.expiry-on-301 {
+  top: 273px;
+  left: 180px;
+  width: 260px;
+}
+.expiry-on-301 {
+  top: 653px;
+}
+.coupons-child2,
+.coupons-child3,
+.coupons-child4 {
+  position: absolute;
+  top: 203px;
+  left: 814px;
+  background-color: var(--color-white);
+  width: 405px;
+  height: 46px;
+}
+.coupons-child3,
+.coupons-child4 {
+  top: 393px;
+}
+.coupons-child4 {
+  top: 583px;
+}
+.khetfirst10,
+.khetmin1299,
+.khetyes {
+  position: absolute;
+  top: 211px;
+  left: 832px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 260px;
+}
+.khetfirst10,
+.khetyes {
+  top: 401px;
+}
+.khetyes {
+  top: 591px;
+}
+.content-copy-icon,
+.content-copy-icon1,
+.content-copy-icon2 {
+  position: absolute;
+  top: 209px;
+  left: 1180px;
+  width: 34px;
+  height: 30px;
+  overflow: hidden;
+}
+.content-copy-icon1,
+.content-copy-icon2 {
+  top: 399px;
+}
+.content-copy-icon2 {
+  top: 589px;
+}
+.coupons-child5 {
+  position: absolute;
+  top: 1911px;
+  left: -119px;
+  background-color: var(--color-darkseagreen-300);
+  width: 2032px;
+  height: 244px;
+}
+.khetmart10 {
+  position: absolute;
+  top: 2010px;
+  left: 541px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-dangrek);
+  display: inline-block;
+  width: 399px;
+}
+.coupons-child6 {
+  position: absolute;
+  top: 1930px;
+  left: 665.22px;
+  width: 147.78px;
+  height: 126.54px;
+}
+.good-quality-icon3,
+.transaction-icon4 {
+  position: absolute;
+  top: 1942px;
+  left: 1127px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.good-quality-icon3 {
+  top: 1928px;
+  left: 153px;
+}
+.fresh-quality4,
+.secure-payments4 {
+  position: absolute;
+  top: 2073px;
+  left: 101px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  color: var(--color-darkgreen-100);
+}
+.secure-payments4 {
+  top: 2082px;
+  left: 1042px;
+}
+.coupons {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2151px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

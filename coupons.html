@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Callback function for Google Translate Element initialization
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          { pageLanguage: 'en', includedLanguages: 'en,hi,gu' },
+          'google_translate_element'
+        );
+      }
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./coupons.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dangrek:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <!-- Google Translate Element container -->
+  <div id="google_translate_element"></div>
+
+  <!-- Include the Google Translate Element script -->
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="coupons">
+      <div class="coupons-child"></div>
+      <img
+        class="vector-icon43"
+        alt=""
+        src="./public/vector16.svg"
+        id="vector"
+      />
+
+      <b class="coupons1">Coupons</b>
+      <div class="coupons-item"></div>
+      <div class="coupons-inner"></div>
+      <div class="coupons-child1"></div>
+      <div class="coupon-code">Coupon Code:</div>
+      <div class="coupon-code1">Coupon Code:</div>
+      <div class="coupon-code2">Coupon Code:</div>
+      <b class="flat-10-off">Flat 10% off </b>
+      <b class="flat-10-off1">Flat 10% off </b>
+      <b class="flat-5-off">Flat 5% off </b>
+      <div class="on-min-purchase">On min purchase of 1299</div>
+      <div class="on-your-first">On your first purchase</div>
+      <div class="payment-by-yes">Payment by Yes Bank Credit Card</div>
+      <div class="expiry-on-30">Expiry on 30 Aug 2023</div>
+      <div class="expiry-on-301">Expiry on 30 Sep 2023</div>
+      <div class="coupons-child2"></div>
+      <div class="coupons-child3"></div>
+      <div class="coupons-child4"></div>
+      <b class="khetmin1299">KHETMIN1299</b>
+      <b class="khetfirst10">KHETFIRST10</b>
+      <b class="khetyes">KHETYES</b>
+      <img class="content-copy-icon" alt="" src="./public/content-copy.svg" />
+
+      <img class="content-copy-icon1" alt="" src="./public/content-copy.svg" />
+
+      <img class="content-copy-icon2" alt="" src="./public/content-copy.svg" />
+
+      <div class="coupons-child5"></div>
+      <div class="khetmart10">Khetmart</div>
+      <img class="coupons-child6" alt="" src="./public/frame-8.svg" />
+
+      <img class="transaction-icon4" alt="" src="./public/transaction@2x.png" />
+
+      <img
+        class="good-quality-icon3"
+        alt=""
+        src="./public/good-quality@2x.png"
+      />
+
+      <div class="fresh-quality4">Fresh Quality</div>
+      <div class="secure-payments4">Secure payments</div>
+    </div>
+
+    <script>
+      var vector = document.getElementById("vector");
+      if (vector) {
+        vector.addEventListener("click", function (e) {
+          window.location.href = "./profile.html";
+        });
+      }
+      </script>
+  </body>
+</html>

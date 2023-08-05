@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Callback function for Google Translate Element initialization
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          { pageLanguage: 'en', includedLanguages: 'en,hi,gu' },
+          'google_translate_element'
+        );
+      }
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./profile.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dangrek:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <!-- Google Translate Element container -->
+  <div id="google_translate_element"></div>
+
+  <!-- Include the Google Translate Element script -->
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div class="profile">
+      <div class="profile-child"></div>
+      <img class="profile-item" alt="" src="./public/rectangle-79@2x.png" />
+
+      <div class="profile-inner"></div>
+      <b class="profile1">PROFILE</b>
+      <div class="profile-child1"></div>
+      <div class="profile-child2"></div>
+      <div class="profile-child3"></div>
+      <div class="na">Na</div>
+      <div class="profile-child4"></div>
+      <input class="rectangle-input" type="text" />
+
+      <b class="account-details">Account Details</b>
+      <input class="name" type="text" placeholder="Name" />
+
+      <input class="mobile-number" type="number" placeholder="Mobile Number" />
+
+      <input class="email-id" type="text" placeholder="Email" id=" " />
+
+      <input class="address2" type="text" placeholder="Address" />
+
+      <img class="vector-icon53" alt="" src="./public/vector211.svg" />
+
+      <img class="vector-icon54" alt="" src="./public/vector101.svg" />
+
+      <img class="vector-icon55" alt="" src="./public/vector151.svg" />
+
+      <img class="vector-icon56" alt="" src="./public/vector22.svg" />
+
+      <img class="vector-icon57" alt="" src="./public/vector23.svg" />
+
+      <img class="vector-icon58" alt="" src="./public/vector23.svg" />
+
+      <img class="vector-icon59" alt="" src="./public/vector23.svg" />
+
+      <img class="vector-icon60" alt="" src="./public/vector23.svg" />
+
+      <div class="profile-child5" id="rectangle6"></div>
+      <button class="coupons2">Coupons</button>
+      <img class="vector-icon61" alt="" src="./public/vector24.svg" />
+
+      <div class="notifications">Notifications</div>
+      <div class="profile-child6"></div>
+      <div class="profile-child7" id="rectangle8"></div>
+      <div class="profile-child8"></div>
+      <div class="terms-and-condition-container" id="termsAndCondition">
+        <p class="terms-and">Terms and</p>
+        <p class="terms-and">Condition</p>
+      </div>
+      <div class="profile-child9"></div>
+      <button class="rectangle-button"></button>
+      <button class="log-out" id="lOGOUT">LOG OUT</button>
+      <div class="privacy-policy3" id="privacyPolicyText">Privacy Policy</div>
+      <div class="faqs1">FAQ’s</div>
+      <img
+        class="vector-icon62"
+        alt=""
+        src="./public/vector27.svg"
+        id="vector2"
+      />
+
+      <img class="vector-icon63" alt="" src="./public/vector25.svg" />
+
+      <div class="rectangle-parent51">
+        <div class="group-child202" id="rectangle11"></div>
+        <button class="orders">Orders</button>
+        <button class="shopping-bag2">
+          <img class="group-icon2" alt="" src="./public/group1.svg" />
+        </button>
+      </div>
+      <div class="rectangle-parent52">
+        <div class="group-child202" id="rectangle12"></div>
+        <button class="wishlist1">Wishlist</button>
+      </div>
+      <div class="profile-inner1">
+        <div class="group-child204"></div>
+      </div>
+      <div class="help-center">Help Center</div>
+      <img class="wish-list-icon" alt="" src="./public/wish-list@2x.png" />
+
+      <img class="address-icon" alt="" src="./public/address@2x.png" />
+
+      <img
+        class="technical-support-icon"
+        alt=""
+        src="./public/technical-support@2x.png"
+      />
+    </div>
+
+    <script>
+      var rectangle6 = document.getElementById("rectangle6");
+      if (rectangle6) {
+        rectangle6.addEventListener("click", function (e) {
+          window.location.href = "./coupons.html";
+        });
+      }
+      
+      var rectangle8 = document.getElementById("rectangle8");
+      if (rectangle8) {
+        rectangle8.addEventListener("click", function (e) {
+          window.location.href = "./faqs.html";
+        });
+      }
+      
+      var termsAndCondition = document.getElementById("termsAndCondition");
+      if (termsAndCondition) {
+        termsAndCondition.addEventListener("click", function (e) {
+          window.location.href = "./termsnconditions.html";
+        });
+      }
+      
+      var lOGOUT = document.getElementById("lOGOUT");
+      if (lOGOUT) {
+        lOGOUT.addEventListener("click", function (e) {
+          window.location.href = "./login.html";
+        });
+      }
+      
+      var privacyPolicyText = document.getElementById("privacyPolicyText");
+      if (privacyPolicyText) {
+        privacyPolicyText.addEventListener("click", function (e) {
+          window.location.href = "./privacy-policy.html";
+        });
+      }
+      
+      var vector2 = document.getElementById("vector2");
+      if (vector2) {
+        vector2.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      
+      var rectangle11 = document.getElementById("rectangle11");
+      if (rectangle11) {
+        rectangle11.addEventListener("click", function (e) {
+          window.location.href = "./my-orders.html";
+        });
+      }
+      
+      var rectangle12 = document.getElementById("rectangle12");
+      if (rectangle12) {
+        rectangle12.addEventListener("click", function (e) {
+          window.location.href = "./whislist.html";
+        });
+      }
+      </script>
+  </body>
+</html>

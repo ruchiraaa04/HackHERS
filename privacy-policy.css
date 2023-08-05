@@ -1,0 +1,100 @@
+.privacy-policy-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkseagreen-100);
+  width: 1440px;
+  height: 114px;
+}
+.privacy-policy2 {
+  position: absolute;
+  top: 33px;
+  left: 130px;
+  font-size: var(--font-size-36xl);
+  color: var(--color-darkolivegreen-400);
+}
+.vector-icon51 {
+  position: absolute;
+  height: 3.14%;
+  width: 4.38%;
+  top: 1.41%;
+  right: 94.16%;
+  bottom: 95.45%;
+  left: 1.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.your-privacy- {
+  margin: 0;
+}
+.your-privacy-container {
+  position: absolute;
+  top: 154px;
+  left: 47px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  width: 1343px;
+  height: 684px;
+}
+.privacy-policy-item {
+  position: absolute;
+  top: 1661px;
+  left: -134px;
+  background-color: var(--color-darkseagreen-300);
+  width: 2032px;
+  height: 244px;
+}
+.khetmart11 {
+  position: absolute;
+  top: 1760px;
+  left: 526px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-dangrek);
+  display: inline-block;
+  width: 399px;
+}
+.privacy-policy-child1 {
+  position: absolute;
+  top: 1680px;
+  left: 650.22px;
+  width: 147.78px;
+  height: 126.54px;
+}
+.good-quality-icon4,
+.transaction-icon5 {
+  position: absolute;
+  top: 1692px;
+  left: 1112px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.good-quality-icon4 {
+  top: 1678px;
+  left: 138px;
+}
+.fresh-quality5,
+.secure-payments5 {
+  position: absolute;
+  top: 1823px;
+  left: 86px;
+  font-weight: 500;
+  color: var(--color-darkgreen-100);
+}
+.secure-payments5 {
+  top: 1832px;
+  left: 1027px;
+}
+.privacy-policy1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1912px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

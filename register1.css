@@ -1,0 +1,324 @@
+.whatsapp-image-2023-07-27-at-51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+}
+.register-item,
+.whatsapp-image-2023-07-28-at-11 {
+  position: absolute;
+  top: -11.67px;
+  left: -133px;
+  width: 1573px;
+  height: 1048.67px;
+}
+.register-item {
+  top: 89px;
+  left: 297.13px;
+  border-radius: var(--br-11xl);
+  width: 1166px;
+  height: 810px;
+  opacity: 0.8;
+}
+.female1,
+.text2 {
+  position: absolute;
+  display: inline-block;
+}
+.text2 {
+  top: 172.66px;
+  left: 773px;
+  font-size: var(--font-size-11xl);
+  height: 34.92px;
+}
+.female1 {
+  top: 606.24px;
+  left: 145px;
+  width: 71px;
+  height: 23.28px;
+}
+.frame-child39,
+.frame-child40 {
+  position: absolute;
+  top: 291.97px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 410px;
+  height: 54.32px;
+}
+.frame-child40 {
+  top: 370.53px;
+}
+.last-name1 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 386.05px;
+  left: 17px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 117px;
+  height: 23.28px;
+}
+.frame-child41 {
+  position: absolute;
+  top: 449.1px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 410px;
+  height: 54.32px;
+}
+.password1 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 464.62px;
+  left: 17px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 108px;
+  height: 23.28px;
+}
+.frame-child42 {
+  position: absolute;
+  top: 527.67px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 410px;
+  height: 54.32px;
+}
+.confirm-password1 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 543.19px;
+  left: 17px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 189px;
+  height: 23.28px;
+}
+.frame-child43 {
+  position: absolute;
+  top: 291.97px;
+  left: 457px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 410px;
+  height: 54.32px;
+}
+.your-email1 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 307.49px;
+  left: 478px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 115px;
+  height: 23.28px;
+}
+.frame-child44 {
+  position: absolute;
+  top: 370.53px;
+  left: 457px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 410px;
+  height: 54.32px;
+}
+.your-phone1 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 386.05px;
+  left: 478px;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 124px;
+  height: 23.28px;
+}
+.frame-child45,
+.frame-child46 {
+  position: absolute;
+  top: 449.1px;
+  left: 457px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 410px;
+  height: 54.32px;
+}
+.frame-child46 {
+  top: 527.67px;
+}
+.apply-as-a1,
+.enter-your-answer1,
+.first-name1 {
+  position: absolute;
+  top: 186.24px;
+  left: 281px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  color: var(--color-darkolivegreen-200);
+  width: 302px;
+  height: 42.68px;
+}
+.enter-your-answer1,
+.first-name1 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  top: 307.49px;
+  left: 17px;
+  color: var(--color-gray-100);
+  text-align: left;
+  width: 119px;
+  height: 23.28px;
+}
+.enter-your-answer1 {
+  top: 548.04px;
+  left: 478px;
+  width: 191px;
+}
+.frame-child47,
+.frame-child48 {
+  cursor: pointer;
+  position: absolute;
+  top: 606.24px;
+  left: 17px;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+  width: 27px;
+  height: 24.25px;
+}
+.frame-child48 {
+  top: 606px;
+  left: 109px;
+}
+.male1 {
+  position: absolute;
+  top: 606.24px;
+  left: 53px;
+  display: inline-block;
+  width: 48px;
+  height: 23.28px;
+}
+.frame-child49,
+.frame-child50,
+.frame-child51 {
+  position: absolute;
+  top: 660.56px;
+  left: 574px;
+  border-radius: var(--br-11xl);
+  width: 281px;
+  height: 50.44px;
+}
+.frame-child50,
+.frame-child51 {
+  top: 90.21px;
+  left: 481px;
+  width: 436px;
+  height: 61.11px;
+}
+.frame-child51 {
+  top: 98.94px;
+  left: 698px;
+  background-color: var(--color-white);
+  width: 195px;
+  height: 43.65px;
+}
+.buyer1,
+.text3 {
+  position: absolute;
+  display: inline-block;
+}
+.buyer1 {
+  top: 103.79px;
+  left: 755px;
+  font-size: var(--font-size-11xl);
+  width: 82px;
+  height: 34.92px;
+}
+.text3 {
+  top: 0;
+  left: 410px;
+  height: 23.28px;
+}
+.seller1 {
+  cursor: pointer;
+  padding: 0;
+  top: 103.79px;
+  left: 514px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  width: 80px;
+  height: 34.92px;
+}
+.please-select-your1,
+.register3,
+.seller1 {
+  border: 0;
+  font-family: var(--font-inter);
+  background-color: transparent;
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+}
+.register3 {
+  cursor: pointer;
+  padding: 0;
+  top: 666.38px;
+  left: 662px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  width: 125px;
+  height: 37.83px;
+}
+.please-select-your1 {
+  font-size: var(--font-size-xl);
+  top: 464px;
+  left: 478px;
+  color: var(--color-dimgray-100);
+  width: 389px;
+}
+.text-group {
+  position: absolute;
+  top: 89px;
+  left: 469px;
+  width: 917px;
+  height: 810px;
+}
+.register2 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(./public/-register@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
